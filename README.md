@@ -2,7 +2,9 @@
 
 ## Sobre mim:
 
-Sou estudante do curso Ciência da Computação. Atualmente, estou focado em aprimorar minhas habilidades em programação orientada a objetos, com ênfase em C# e na plataforma .NET.  
+Olá, sou o Victor, estudante de Ciência da Computação com foco no desenvolvimento de software. 
+
+Busco aprimorar meus conhecimentos tanto no desenvolvimento back-end, utilizando C#, quanto no front-end, com HTML, CSS e JavaScript, visando criar soluções completas e de alta qualidade.
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorMelo&show_icons=true&theme=radical)
 
@@ -11,6 +13,13 @@ Sou estudante do curso Ciência da Computação. Atualmente, estou focado em apr
 <div style="display: inline-block;">
     <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+    <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+    <img align="center" alt=".NET" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt=".NET" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+    <img align="center" alt=".NET" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
+
+    
+
 </div><br/>
 
 ## Contatos:
